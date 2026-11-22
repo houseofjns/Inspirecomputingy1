@@ -1,0 +1,9 @@
+{
+  "name": "House of J&S · Inspire Computing Year 1",
+  "short_name": "J&S Year 1",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0A192F",
+  "description": "Bilingual English–Myanmar Year 1 Computing learning portal"
+}
